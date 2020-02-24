@@ -3,7 +3,9 @@
 <p align="center">
     <img width="284" height="276" src="pacman.png" />
     <br>
-    <a href="https://flyclipart.com/pacman-ghost-png-pacman-ghost-png-112952">source</a>
+    <a
+    href="https://flyclipart.com/pacman-ghost-png-pacman-ghost-png-112952">source
+    flyclipart</a>
 </p>
 
 ## Packages
