@@ -53,3 +53,13 @@
 ;; they are implemented.
 
 (setq +doom-dashboard-banner-file (expand-file-name "pacman.png" doom-private-dir))
+
+(doom-themes-neotree-config)
+;; (after! neotree
+  ;; (setq doom-themes-neotree-file-icons 'icons)
+  ;; (setq doom-themes-neotree-enable-file-icons 'icons)
+  ;; (setq neo-theme 'icons)
+  ;; (doom-themes-neotree-config))
+
+;; (after! doom-themes
+  ;; (setq doom-neotree-file-icons t))
